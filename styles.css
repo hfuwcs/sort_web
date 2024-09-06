@@ -27,8 +27,9 @@ select, input, button {
     padding: 12px;
     margin-top: 15px;
     font-size: 16px;
-    border: none;
-    border-radius: 25px solid 1px; /* Rounded corners */
+    border: 1px solid #000000;
+    border-radius: 25px;
+    /* Rounded corners */
     width: 100%;
 }
 
