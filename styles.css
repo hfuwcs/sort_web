@@ -20,7 +20,7 @@ body {
 h1 {
     font-size: 26px;
     margin-bottom: 15px;
-    color: #fff; /* White text for contrast */
+    color: #000000; /* White text for contrast */
 }
 
 select, input, button {
